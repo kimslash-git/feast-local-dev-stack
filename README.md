@@ -1,5 +1,4 @@
-# Feast 로컬 개발 스택
-
+# 프로젝트명 수정 테스트
 > [English](README.en.md) | 한국어
 
 Feast 기반 feature store를 빠르게 구축·테스트·데모할 수 있는 로컬 개발 환경입니다.
